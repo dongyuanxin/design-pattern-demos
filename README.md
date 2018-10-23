@@ -1,4 +1,4 @@
-# [design-patterns-demos](https://godbmw.com/passage/79)
+# [design-patterns-demos](https://godbmw.com/category/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 > Wow！这是一本多语言实现的设计模式的小册 👇
 
