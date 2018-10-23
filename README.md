@@ -21,7 +21,7 @@
 - GitHub 地址: [design-patterns-demos](https://github.com/dongyuanxin/design-pattern-demos)
 - 小册地址: [每天一个设计模式](https://godbmw.com/category/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
-## [课程目录](https://godbmw.com/category/)
+## [课程目录](https://godbmw.com/category/%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 1. 每天一个设计模式·多语言实现: [https://godbmw.com/passage/79](https://godbmw.com/passage/79)
 2. 每天一个设计模式之单例模式：[https://godbmw.com/passage/80](https://godbmw.com/passage/80)
