@@ -32,3 +32,4 @@ if __name__ == "__main__":
     proxyImg.load_img()
 
   proxyImg.display()
+  
