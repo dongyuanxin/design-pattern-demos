@@ -25,10 +25,14 @@
 
 1. 每天一个设计模式·多语言实现: [https://godbmw.com/passage/79](https://godbmw.com/passage/79)
 2. 每天一个设计模式之单例模式：[https://godbmw.com/passage/80](https://godbmw.com/passage/80)
+3. 每天一个设计模式之策略模式: [https://godbmw.com/passage/82](https://godbmw.com/passage/82)
+4. 每天一个设计模式之代理模式: [https://godbmw.com/passage/85](https://godbmw.com/passage/85)
 
 ## [代码目录](https://github.com/dongyuanxin/design-pattern-demos)
 
 1. [Singleton Parttern](https://github.com/dongyuanxin/design-pattern-demos/tree/master/singleton_parttern): 单例模式
+2. [Stragegy Pattern](https://github.com/dongyuanxin/design-pattern-demos/tree/master/singleton_parttern): 策略模式
+3. [Proxy Pattern](https://github.com/dongyuanxin/design-pattern-demos/tree/master/proxy_pattern): 代理模式
 
 ## 关于作者
 
